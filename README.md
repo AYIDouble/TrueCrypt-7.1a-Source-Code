@@ -1,6 +1,6 @@
-# 🔐 TrueCrypt-7.1a 🔐 ([TrueCrypt-7.1a.exe](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/raw/master/TrueCrypt-7.1a/TrueCrypt.exe))
+# 🔐 TrueCrypt-7.1a 🔐 ([TrueCrypt-7.1a.exe](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/raw/master/TrueCrypt-7.1a/TrueCrypt_Setup.exe))
 
-**Download (EXE): [TrueCrypt-7.1a.exe](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/raw/master/TrueCrypt-7.1a/TrueCrypt.exe)**
+**Download (EXE): [TrueCrypt-7.1a.exe](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/raw/master/TrueCrypt-7.1a/TrueCrypt_Setup.exe)**
 
 **TrueCrypt User Guide (PDF): [TrueCrypt_User_Guide.pdf](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/blob/master/TrueCrypt-7.1a/TrueCrypt_User_Guide.pdf)**
 
