@@ -2,7 +2,7 @@
 
 Download (EXE): [TrueCrypt-7.1a.exe](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/raw/master/TrueCrypt-7.1a/TrueCrypt.exe)
 
-TrueCryp User Guide (PDF): [TrueCrypt_User_Guide.pdf](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/blob/master/TrueCrypt-7.1a/TrueCrypt_User_Guide.pdf)
+TrueCrypt User Guide (PDF): [TrueCrypt_User_Guide.pdf](https://github.com/AYIDouble/TrueCrypt-7.1a-Source-Code/blob/master/TrueCrypt-7.1a/TrueCrypt_User_Guide.pdf)
 
 🔐 TrueCrypt can create a virtual encrypted disk within a file, encrypt a partition and the whole storage device, Encryption is very important to prevent Crackers stealing Source Codes of Companies. 🔐
 
